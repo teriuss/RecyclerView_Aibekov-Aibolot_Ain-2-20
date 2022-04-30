@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="names">
+        <item>Aibekov Aibolot</item>
+        <item>Melisov Sanjar</item>
+        <item>Esenbaeva Aiman</item>
+        <item>Tilek Sagynbekov</item>
+        <item>Leonid Aymer</item>
+        <item>John Nash</item>
+        <item>Leonardo Dicaprio</item>
+        <item>Abdukaimov Daniel</item>
+
+    </string-array>
+
+    <string-array name="roles">
+        <item>Surgeon</item>
+        <item>Veterinarian</item>
+        <item>Pediatrician</item>
+        <item>Optometrist</item>
+        <item>Medical surgery nurse</item>
+        <item>Chiropractor</item>
+        <item>Psychiatrist</item>
+        <item>Podiatrist</item>
+    </string-array>
+</resources>
